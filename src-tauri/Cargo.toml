@@ -1,9 +1,9 @@
 [package]
 name = "idea-checklist"
 version = "1.0.0"
-description = "A Tauri App"
-authors = ["you"]
-edition = "2021"
+description = "A Tauri App for organizing ideas for tech-related streams"
+authors = ["ArsenTech"]
+edition = "2025"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

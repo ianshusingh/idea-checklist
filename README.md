@@ -2,7 +2,9 @@
 
 A simple and efficient software for Tech YouTube Streamers To manage Malware Test and Windows Test Ideas During the Stream. It helps organize and track ideas by categorizing them into different lists based on their status.
 
-<!-- TODO: Add Status Badges -->
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ArsenTech/idea-checklist/total?style=for-the-badge&label=Total%20Downloads&color=%2322b455)
+![GitHub License](https://img.shields.io/github/license/ArsenTech/idea-checklist?style=for-the-badge&color=%2322b455)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ArsenTech/idea-checklist/main.yml?style=for-the-badge&color=%2322b455)
 
 ## Table of contents
 - [Features](#features)
@@ -23,7 +25,8 @@ A simple and efficient software for Tech YouTube Streamers To manage Malware Tes
 
 ## Download
 You can find the latest stable version of Idea Checklist right here
-<!-- TODO: Add Download Button -->
+
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/ArsenTech/idea-checklist/latest/total?style=for-the-badge&label=Download&color=%2322b455)
 
 ## Usage
 ### 1. Adding an Idea:

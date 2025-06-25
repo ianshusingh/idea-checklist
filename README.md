@@ -33,13 +33,13 @@ A simple and efficient software for Tech YouTube Streamers to manage Malware Tes
 - **"Saved for Later" List**: Store ideas here if the viewer who suggested them is absent.
 - **Bulk Add Ideas**: Quickly add multiple ideas from text input.
 - **Lightweight & Fast**: Built with Tauri, ensuring high performance and low resource usage.
-- **Theme Customization**: This App has a Light Theme, Dark Theme, and a Terminal Theme (for more tech experience).
+- **Theme Customization**: This App has a Light Theme, Dark Theme, and a Terminal Theme for more tech experience.
 - **Auto Save Feature**: Every Time You Manage The Idea, It Will Automatically Save To The Local Storage.
 
 ## Download
 You can find the latest stable version of Idea Checklist right here
 
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/ArsenTech/idea-checklist/latest/total?style=for-the-badge&label=Download&color=%2322b455)
+[![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/ArsenTech/idea-checklist/latest/total?style=for-the-badge&label=Download&color=%2322b455)](https://github.com/ArsenTech/idea-checklist/releases/latest)
 
 ## Usage
 ### 1. Adding an Idea:

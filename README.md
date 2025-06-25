@@ -1,10 +1,23 @@
-# Idea Checklist
+<!-- TODO: Add a logo -->
+<h1 align="center">Idea Checklist</h3>
+<p align="center">A simple and efficient software for Tech YouTube Streamers to manage Ideas during the Stream</p>
+<p align="center">
+     <a href="https://github.com/ArsenTech/idea-checklist/issues/new?assignees=&labels=&template=bug_report.md&title=">Report bug</a>
+     &nbsp;&middot;&nbsp;
+     <a href="https://github.com/ArsenTech/idea-checklist/issues/new?assignees=&labels=&template=feature_request.md&title=">Request Feature</a>
+</p>
+<p align="center">
+<img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/ArsenTech/idea-checklist?style=for-the-badge">
+<a href="https://github.com/ArsenTech/idea-checklist/blob/main/LICENSE.md"><img alt="GitHub" src="https://img.shields.io/github/license/ArsenTech/idea-checklist?color=%2322b455&style=for-the-badge"></a>
+<a href="https://github.com/ArsenTech/idea-checklist/releases"><img src="https://img.shields.io/github/downloads/ArsenTech/idea-checklist/total?style=for-the-badge&label=Total%20Downloads&color=%2322b455" alt="downloads"></a>
+<img src="https://img.shields.io/github/actions/workflow/status/ArsenTech/idea-checklist/main.yml?style=for-the-badge&color=%2322b455" alt="build-status">
+<img alt="commits since latest release" src="https://img.shields.io/github/commits-since/ArsenTech/idea-checklist/latest?style=for-the-badge&color=%2322b455&label=Commits%20since%20latest%20version">
+<img alt="GitHub Created At" src="https://img.shields.io/github/created-at/ArsenTech/idea-checklist?style=for-the-badge">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ArsenTech/idea-checklist?style=for-the-badge">
+</p>
 
-A simple and efficient software for Tech YouTube Streamers To manage Malware Test and Windows Test Ideas During the Stream. It helps organize and track ideas by categorizing them into different lists based on their status.
-
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ArsenTech/idea-checklist/total?style=for-the-badge&label=Total%20Downloads&color=%2322b455)
-![GitHub License](https://img.shields.io/github/license/ArsenTech/idea-checklist?style=for-the-badge&color=%2322b455)
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ArsenTech/idea-checklist/main.yml?style=for-the-badge&color=%2322b455)
+## About
+A simple and efficient software for Tech YouTube Streamers to manage Malware Test and Windows Test Ideas during the Stream. It helps organize and track ideas by categorizing them into different lists based on their status.
 
 ## Table of contents
 - [Features](#features)
@@ -20,7 +33,7 @@ A simple and efficient software for Tech YouTube Streamers To manage Malware Tes
 - **"Saved for Later" List**: Store ideas here if the viewer who suggested them is absent.
 - **Bulk Add Ideas**: Quickly add multiple ideas from text input.
 - **Lightweight & Fast**: Built with Tauri, ensuring high performance and low resource usage.
-- **Theme Customization**: This App Has a Light Theme, Dark Theme, and a Terminal Theme (for more tech experience).
+- **Theme Customization**: This App has a Light Theme, Dark Theme, and a Terminal Theme (for more tech experience).
 - **Auto Save Feature**: Every Time You Manage The Idea, It Will Automatically Save To The Local Storage.
 
 ## Download
@@ -30,8 +43,8 @@ You can find the latest stable version of Idea Checklist right here
 
 ## Usage
 ### 1. Adding an Idea:
-- Click On The Plus Button, Select "Add an Idea" (Or By Going To File -> Add an Idea), Type The Viewer Name and Idea and Click On the "Add an Idea" Button.
-- To Add Multiple Ideas At Once, Click On The Plus Button, Select "Bulk add Ideas" (Or By Going To File -> Bulk Add Ideas), Type Some Ideas From a Notepad Like This:
+- Click On The Plus Button, select "Add an Idea" (Or By Going To File -> Add an Idea), Type The Viewer Name and Idea, and Click On the "Add an Idea" Button.
+- To Add Multiple Ideas At Once, Click On The Plus Button, select "Bulk add Ideas" (Or By Going To File -> Bulk Add Ideas), Type Some Ideas From a Notepad Like This:
 ```txt
 Name
 Idea
@@ -40,20 +53,19 @@ Name
 Idea (later)
 ...
 ```
-- Then Click on The "Bulk add Ideas" Button.
+- Then click on the "Bulk add Ideas" Button.
 
 ### 2. Managing Ideas:
 - When an Idea is completed, move it to the Completed Ideas List By Clicking On The Checkbox Icon.
-- If The Viewer is absent, move it to "Save For Later" list by Clicking On the Clock icon.
-- If The Viewer Wants to Change The Idea, Click On The Edit Button, Change Some Values and Click On "Edit an Idea" To Save The Changes.
+- If The Viewer is absent, move it to the "Save For Later" list by Clicking On the Clock icon.
+- If The Viewer Wants to Change The Idea, Click On The Edit Button, Change Some Values, and Click On "Edit an Idea" To Save The Changes.
 
 ### 3. Reviewing And Organizing:
 - Review Completed Ideas For Reference.
 - Revisit Saved Ideas When The Respective Viewer Is Available and Returned To The Stream.
 
 ## Bugs and Feature Requests
-If You want to Report Bug, or Request Feature, Write an Issue and I'll be in touch with you soon.
-<!-- TODO: Add Buttons for Bug reports and Feature Requests -->
+If you want to report a bug or request a Feature, write an Issue, and I'll be in touch with you soon.
 
 ## Tech:
 - **Frontend**: React + ShadCN UI

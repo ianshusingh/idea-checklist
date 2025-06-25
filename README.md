@@ -1,6 +1,8 @@
-<!-- TODO: Add a logo -->
+<p align="center">
+     <img src=".github/readme-logo.png">
+</p>
 <h1 align="center">Idea Checklist</h3>
-<p align="center">A simple and efficient software for Tech YouTube Streamers to manage Ideas during the Stream</p>
+<p align="center">A simple and efficient software for Tech YouTube Streamers to manage ideas during the live stream</p>
 <p align="center">
      <a href="https://github.com/ArsenTech/idea-checklist/issues/new?assignees=&labels=&template=bug_report.md&title=">Report bug</a>
      &nbsp;&middot;&nbsp;
@@ -17,15 +19,7 @@
 </p>
 
 ## About
-A simple and efficient software for Tech YouTube Streamers to manage Malware Test and Windows Test Ideas during the Stream. It helps organize and track ideas by categorizing them into different lists based on their status.
-
-## Table of contents
-- [Features](#features)
-- [Download](#download)
-- [Usage](#usage)
-- [Bugs and Feature Requests](#bugs-and-feature-requests)
-- [Tech](#tech)
-- [Support And Follow](#support-and-follow)
+A simple and efficient software for Tech YouTube Streamers to manage Malware Test and Windows Test Ideas during the live stream. It helps you organize and track ideas by categorizing them into different lists based on their status.
 
 ## Features
 - **Idea Management**: Easily track and organize ideas mentioned during the live stream.
